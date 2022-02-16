@@ -1,0 +1,12 @@
+﻿datetime,location,site,meas_type,staff,staff_unit,dep_to_bed,dep_to_water,adj_caprod,note
+5/25/21 9:40,lexen,lexen1,tape,,,159.7,133.2,,
+6/30/21 15:50,lexen,lexen1,tape,,,156.2,137.2,,
+6/30/21 16:00,lexen,lexen1,tape,,,155.5,137.1,,
+7/7/21 12:10,lexen,lexen1,tape,,,155.7,138.4,,
+7/21/21 13:20,lexen,lexen1,tape,,,155.7,140.7,,
+7/21/21 13:30,lexen,lexen1,tape,,,155.7,140.4,,
+8/11/21,lexen,lexen1,tape,,,156.1,142.4,,no time recorded
+8/11/21,lexen,lexen1,tape,,,155.7,142.3,,no time recorded
+8/25/21 12:40,lexen,lexen1,tape,,,155.7,142.8,,
+9/1/21 12:40,lexen,lexen1,tape,,,155.7,143.2,,
+9/1/21 12:50,lexen,lexen1,tape,,,155.1,143.1,,

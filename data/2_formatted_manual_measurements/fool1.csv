@@ -1,0 +1,13 @@
+﻿datetime,location,site,meas_type,staff,staff_unit,dep_to_bed,dep_to_water,adj_caprod,note
+5/25/21 15:30,fool,fool1,tape,,,153.9,134.1,,
+7/7/21 17:20,fool,fool1,tape,,,152.8,137.4,,
+7/7/21 17:40,fool,fool1,tape,,,152.8,137.2,,
+7/21/21 15:50,fool,fool1,tape,,,153.3,139,,
+7/21/21 16:00,fool,fool1,tape,1.83,,153.7,138.8,,staff ruler present as part of old weir
+8/24/21 14:30,fool,fool1,tape,,,153.8,140.3,,
+8/24/21 15:50,fool,fool1,tape,,,154.1,140.5,,
+8/31/21 18:20,fool,fool1,tape,,,154,140.7,,
+8/31/21 18:30,fool,fool1,tape,,,154,140.8,,
+9/15/21 9:50,fool,fool1,tape,,,153.1,140.9,,
+9/15/21 10:50,fool,fool1,tape,,,153.7,140.7,,
+9/15/21 11:00,fool,fool1,tape,,,145.1,140.9,,
